@@ -1,0 +1,4 @@
+comtypes==1.1.7
+numpy==1.16.0
+pygame==1.9.4
+pykinect2==0.1.0
